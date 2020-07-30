@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "\\\\wsl$\\Ubuntu-18.04\\home\\adi_g\\workspace\\sql\\test\\musichistory.db",
+            "driver": "SQLite",
+            "name": "music",
+            "previewLimit": 50
+        },
+        {
+            "database": "musichistory.db",
+            "driver": "SQLite",
+            "name": "music",
+            "previewLimit": 50
+        }
+    ]
+}
